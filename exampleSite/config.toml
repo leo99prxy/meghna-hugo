@@ -1,4 +1,4 @@
-baseURL = "https://Valleytech.com"
+baseURL = "https://valleytech.com"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
